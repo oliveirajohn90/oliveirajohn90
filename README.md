@@ -1,6 +1,6 @@
-- John Oliveira 🪂
- -Linguaguens de programação Front-End
-- Anaálise e Desenvolvimento de Sistemas pela Unicesumar
+- John Oliveira 💀🪂
+- Linguaguens de programação Front-End
+- Anaálise e Desenvolvimento de Sistemas
 
 <!---
 oliveirajohn90/oliveirajohn90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
