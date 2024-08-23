@@ -2,8 +2,8 @@
 
 ### Sobre mim
 💻 Estou aprendendo e realizando projetos Front-End
-🎓 Eu estudo Análise e Desenvolvimento de Sistemas
-👩‍💻 Atualmente sou Servidor Público
+<br>🎓 Eu estudo Análise e Desenvolvimento de Sistemas
+<br>👩‍💻 Atualmente sou Servidor Público
 
 ##
 
